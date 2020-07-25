@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/TestesDeSoftware/v16
+/01 - Testes de Unidade/Demo/obj/Debug/netcoreapp2.2
+/01 - Testes de Unidade/Features/obj/Debug/netcoreapp2.2
+/01 - Testes de Unidade/Features.Tests/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs
+/01 - Testes de Unidade/Demo.Tests/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs
